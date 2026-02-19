@@ -11,4 +11,3 @@ public static void main (String[]args){
     printMyName(name);
 }
 }
-
