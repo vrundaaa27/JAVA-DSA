@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class equal_greater_lesser {
+public class Equal_greater_lesser{
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
