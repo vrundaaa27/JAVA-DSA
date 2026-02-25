@@ -1,4 +1,6 @@
-import java.util.*;
+// import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class isAscending {
     public static void main(String [] args){
@@ -27,6 +29,6 @@ public class isAscending {
         }else{
             System.out.println("Array is NOT sorted in Ascending order.");
         }
-        //  System.out.println("Array elements are: " + Arrays.toString(number));
+         System.out.println("Array elements are: " + Arrays.toString(number));
     }    
 }
