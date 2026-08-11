@@ -14,5 +14,12 @@ public class arrBasics {
         for(int i = 0; i < 3; i++){
             System.out.println(marks[i]);
         }
+
+        //WAY TWO of declaring an array
+        String [] names = {"Vrunda", "Shreya", "Ananya"};
+
+        for(int i = 0; i < names.length; i++){
+            System.out.println(names[i]);
+        }
     }
 }

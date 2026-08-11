@@ -15,7 +15,7 @@ public class findX {
                 numbers[i][j] = sc.nextInt();
             }
         }
-        System.out.println("Enter X :");
+        System.out.println("Enter X:");
         int x = sc.nextInt();
 
         for(int i = 0; i < rows; i++){
