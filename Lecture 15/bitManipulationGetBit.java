@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class bitManipulation{
+public class bitManipulationGetBit{
     public static void main(String[] args) {
         
         int n = 5;
