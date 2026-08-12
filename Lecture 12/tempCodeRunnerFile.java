@@ -1,0 +1,1 @@
+String name = sentence.substring(0,4);
