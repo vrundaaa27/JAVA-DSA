@@ -1,5 +1,6 @@
 import java.util.*;
 
+//print sum of natural no's from n = 5
 // public class Recursion3 {
 //     public static void printSum(int i, int n, int sum){
 //         if (i == n) {
@@ -24,6 +25,7 @@ public class Recursion3{
         }
         sum += a;
         printSum(a+1, b, sum);
+        System.out.println(a);
     }
     public static void main(String[] args) {
         printSum(1, 5, 0);

@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Print no's from n = 5 to 0
 public class Recursion2 {
     public static void printNumb(int n){
         if (n == 6) {

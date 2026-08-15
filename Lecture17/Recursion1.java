@@ -1,5 +1,6 @@
 import java.util.*;
 
+//Print natural nos from n //5
 public class Recursion1 {
     public static void printNumb(int n){
         if(n == 0){
