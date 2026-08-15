@@ -25,7 +25,7 @@ public class Recursion3{
         sum += a;
         printSum(a+1, b, sum);
     }
-    public static void main(String[] args){
+    public static void main(String[] args) {
         printSum(1, 5, 0);
     }
 }
